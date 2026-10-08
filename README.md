@@ -8,11 +8,8 @@
 一个带图形界面的 Windows 桌面 m3u8 下载器：**粘贴链接 → 点击按钮 → 自动下载并合并**，
 实时显示下载速度与进度，视频统一保存在 `Videos` 文件夹。
 
-<<<<<<< Updated upstream
-![界面预览](界面预览.png)
 =======
 ![界面预览](https://github.com/NILNILL/N_m3u8DL-CLI-GUI/blob/score/score/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88.png)
->>>>>>> Stashed changes
 
 ---
 
